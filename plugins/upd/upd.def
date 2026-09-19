@@ -1,0 +1,3 @@
+EXPORTS 
+xchatus_plugin_init 
+xchatus_plugin_deinit 

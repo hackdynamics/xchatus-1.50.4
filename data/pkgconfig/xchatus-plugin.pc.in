@@ -1,0 +1,9 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+includedir=@includedir@
+xchatuslibdir=@xchatuslibdir@
+
+Name: XCHATUS plugins
+Description: Header and path for XCHATUS plugins
+Version: @VERSION@
+Cflags: -I${includedir}
