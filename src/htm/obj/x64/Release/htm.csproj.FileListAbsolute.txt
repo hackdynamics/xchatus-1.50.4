@@ -8,3 +8,13 @@ C:\Users\Alexey\Downloads\xchatus-1.50.4\xchatus-1.50.4\src\htm\obj\x64\Release\
 C:\Users\Alexey\Downloads\xchatus-1.50.4\xchatus-1.50.4\src\htm\obj\x64\Release\htm.csproj.CoreCompileInputs.cache
 C:\Users\Alexey\Downloads\xchatus-1.50.4\xchatus-1.50.4\src\htm\obj\x64\Release\thememan.exe
 C:\Users\Alexey\Downloads\xchatus-1.50.4\xchatus-1.50.4\src\htm\obj\x64\Release\thememan.pdb
+C:\Users\Alexey\xchatus-build\x64\bin\thememan.exe.config
+C:\Users\Alexey\xchatus-build\x64\bin\thememan.exe
+C:\Users\Alexey\xchatus-build\x64\bin\thememan.pdb
+C:\Users\Alexey\xchatus-1.50.4\src\htm\obj\x64\Release\htm.csproj.AssemblyReference.cache
+C:\Users\Alexey\xchatus-1.50.4\src\htm\obj\x64\Release\thememan.HTM.resources
+C:\Users\Alexey\xchatus-1.50.4\src\htm\obj\x64\Release\thememan.Properties.Resources.resources
+C:\Users\Alexey\xchatus-1.50.4\src\htm\obj\x64\Release\htm.csproj.GenerateResource.cache
+C:\Users\Alexey\xchatus-1.50.4\src\htm\obj\x64\Release\htm.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\xchatus-1.50.4\src\htm\obj\x64\Release\thememan.exe
+C:\Users\Alexey\xchatus-1.50.4\src\htm\obj\x64\Release\thememan.pdb
