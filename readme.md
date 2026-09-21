@@ -11,20 +11,9 @@ For more information on XCHATUS please read our [documentation](https://xchatus.
 
 ---
 
-<br><b> XCHATUS make on Ubuntu:</b>
-- <br> # apt install meson libcanberra-dev libdbus-glib-1-dev libglib2.0-dev libgtk2.0-dev libluajit-5.1-dev libpci-dev libperl-dev libssl-dev python3-dev python3-cffi mono-devel desktop-file-utils
-<br># meson build
-<br># ninja -C build
-<br># ninja -C build install
-<br>
----
-<center><img src="https://github.com/hackdynamics/xchatus-1.50.4/blob/main/xchatus.png"></center>
-<br>
-
----
-
 <sub>
-XCHATUS ("xchatus") Copyright (c) 2026 By Alexey Kuleshov.<br>
+X-Chat ("xchat") Copyright (c) 1998-2010 By Peter Zelezny.  
+XCHATUS ("xchatus") Copyright (c) 2009-2014 By Berke Viktor.
 </sub>
 
 <sub>

@@ -24,7 +24,7 @@
 
 #include "xchatus-plugin.h"
 
-#define APPCAST_URL "https://xchatus.github.io/appcast.xml"
+#define APPCAST_URL "localhost"
 
 static xchatus_plugin *ph;   /* plugin handle */
 static char name[] = "Update Checker";
