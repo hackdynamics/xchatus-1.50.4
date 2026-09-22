@@ -167,7 +167,7 @@ static const struct defaultserver def[] =
 	{"Virginia", 0, 0, 0},	
 	{0,			"1.1.1.1/9996"},
 	{"Washington", 0, 0, 0},	
-	{0,			"1.1.1.1/9996"},
+	{0,			"irc.pureirc.us/6697"},
 	{"West Virginia", 0, 0, 0},	
 	{0,			"1.1.1.1/9996"},
 	{"Wisconsin", 0, 0, 0},	
